@@ -1,5 +1,7 @@
 body {
   margin: 25px auto 25px auto;
+  padding-left: 5%;
+  padding-right: 5%;
   display: block;
   max-width: 1024px;
   font-family: 'Montserrat', sans-serif;
